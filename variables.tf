@@ -1,7 +1,7 @@
 variable "project_id" {
   description = "The GCP project ID"
   type        = string
-  default     = "omega-winter-434300-d8"  # Set a default value or leave empty to require user input
+  default     = "omega-winter-434300-d8" # Set a default value or leave empty to require user input
 }
 
 variable "region" {
